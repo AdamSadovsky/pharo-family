@@ -1,0 +1,189 @@
+SUnit
+ - position: inside image
+ - importance: 5
+ - enterprise: 5
+ - purpose: Testing
+ - attributes:
+ - url: 
+Morphic
+ - position: inside image
+ - importance: 5
+ - enterprise: 4
+ - purpose: Graphical system
+ - attributes: 
+ - url: 
+Monticello
+ - position: inside image
+ - importance: 5
+ - enterprise: 
+ - purpose: Repository
+ - attributes: saves packages to remote or local repositories (directory, http, ftp, *hub), manages versions of packages (save, load, merge, diff, ...)
+ - url: 
+Gofer
+ - position: inside image
+ - importance: 4
+ - enterprise: 
+ - purpose: Repository/Scripting
+ - attributes: API to Monticello, scripting to loading/saving different packages at once to different location, ensure of clean state of system
+ - url: 
+Metacello
+ - position: inside image
+ - importance: 4
+ - enterprise: 
+ - purpose: Repository/Dependancy
+ - attributes: take care of loading correct versions of needed packages
+ - url: 
+Class Browser
+ - position: inside image
+ - importance: 5
+ - enterprise: 
+ - purpose: Development/Editor
+ - attributes: browse/edit/refactor/search/examine of packages/classes/methods, auto-format, auto-completation, hints and help
+ - url: 
+Zinc
+ - position: inside image
+ - importance: 4
+ - enterprise: 
+ - purpose: Server/HTTP
+ - attributes: 
+ - url: 
+Aida WEB
+ - position: outside image
+ - importance: 4
+ - enterprise: 
+ - purpose: WEB/Framework
+ - attributes: 
+ - url: 
+Seaside
+ - position: outside image
+ - importance: 4
+ - enterprise: 
+ - purpose: WEB/Framework
+ - attributes: 
+ - url: 
+Pier
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: WEB/CMS
+ - attributes: 
+ - url: 
+NeoJSON
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Data/import,export
+ - attributes: 
+ - url: 
+NeoCSV
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Data/import,export
+ - attributes: 
+ - url: 
+Petit
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Data/import,export
+ - attributes: general data parser
+ - url: 
+SandstoneDb
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Persistance
+ - attributes: 
+ - url: 
+Fuel
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Persistance
+ - attributes: Fast serialization
+ - url: 
+Mapless
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Persistance
+ - attributes: MongoDB connector
+ - url: 
+Magma
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: Persistance/Object Database
+ - attributes: 
+ - url: 
+Moose
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Roassal
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Teapot
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Voyager
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Mustache
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+RenoirST
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Margritte
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Pillar
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Phrach
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
+Glamour
+ - position: outside image
+ - importance: 3
+ - enterprise: 
+ - purpose: 
+ - attributes: 
+ - url: 
