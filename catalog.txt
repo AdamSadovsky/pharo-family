@@ -1,189 +1,252 @@
 SUnit
- - position: inside image
+ - type: project inside of Pharo image
  - importance: 5
  - enterprise: 5
  - purpose: Testing
- - attributes:
+ - description:
  - url: 
 Morphic
- - position: inside image
+ - type: project inside of Pharo image
  - importance: 5
  - enterprise: 4
  - purpose: Graphical system
- - attributes: 
+ - description: 
  - url: 
 Monticello
- - position: inside image
+ - type: project inside of Pharo image
  - importance: 5
  - enterprise: 
  - purpose: Repository
- - attributes: saves packages to remote or local repositories (directory, http, ftp, *hub), manages versions of packages (save, load, merge, diff, ...)
+ - description: saves packages to remote or local repositories (directory, http, ftp, *hub), manages versions of packages (save, load, merge, diff, ...)
  - url: 
 Gofer
- - position: inside image
+ - type: project inside of Pharo image
  - importance: 4
  - enterprise: 
  - purpose: Repository/Scripting
- - attributes: API to Monticello, scripting to loading/saving different packages at once to different location, ensure of clean state of system
- - url: 
+ - description: API to Monticello, scripting to loading/saving different packages at once to different location, ensure of clean state of system
+ - url:
 Metacello
- - position: inside image
+ - type: project inside of Pharo image
  - importance: 4
  - enterprise: 
  - purpose: Repository/Dependancy
- - attributes: take care of loading correct versions of needed packages
+ - description: take care of loading correct versions of needed packages
  - url: 
-Class Browser
- - position: inside image
+Class Browser (Omnibrowser)
+ - type: project inside of Pharo image
  - importance: 5
  - enterprise: 
  - purpose: Development/Editor
- - attributes: browse/edit/refactor/search/examine of packages/classes/methods, auto-format, auto-completation, hints and help
- - url: 
-Zinc
- - position: inside image
+ - description: browse/edit/refactor/search/examine of packages/classes/methods, auto-format, auto-completation, hints and help
+ - url:
+Refactoring Browser
+ - type: project inside of Pharo image
  - importance: 4
  - enterprise: 
- - purpose: Server/HTTP
- - attributes: 
+ - purpose: Development/Refactoring
+ - description: 
+ - url:
+Setting Browser
+ - type: project inside of Pharo image
+ - importance: 4
+ - enterprise: 
+ - purpose: Configuration
+ - description: Browsing and changing preference value
+ - url:
+VB-Regex
+ - type: project inside of Pharo image
+ - importance: 4
+ - enterprise: 
+ - purpose: Development/Regular expressions
+ - description: 
+ - url:
+SmaCC
+ - type: project inside of Pharo image
+ - importance: 4
+ - enterprise: 
+ - purpose: Development/Regular expressions
+ - description: 
+ - url:
+RegexPackage
+ - type: project inside of Pharo image
+ - importance: 4
+ - enterprise: 
+ - purpose: Development/Regular expressions
+ - description: 
+ - url:
+MessageTally
+ - type: project inside of Pharo image
+ - importance: 4
+ - enterprise: 
+ - purpose: Development/Profiling
+ - description: 
+ - url:
+Zinc
+ - type: project inside of Pharo image
+ - importance: 4
+ - enterprise: 
+ - purpose: Networking/HTTP
+ - description: Client and server implementation of HTTP protocol
  - url: 
 Aida WEB
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 4
  - enterprise: 
  - purpose: WEB/Framework
- - attributes: 
+ - description: 
  - url: 
 Seaside
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 4
  - enterprise: 
  - purpose: WEB/Framework
- - attributes: 
+ - description: 
  - url: 
 Pier
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: WEB/CMS
- - attributes: 
+ - description: 
  - url: 
 NeoJSON
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: Data/import,export
- - attributes: 
+ - description: 
  - url: 
 NeoCSV
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: Data/import,export
- - attributes: 
+ - description: 
  - url: 
-Petit
- - position: outside image
+STON
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: Data/import,export
- - attributes: general data parser
+ - description: Export,import data format similar to JSON
+ - url: 
+PetitParser
+ - type: project outside of Pharo image
+ - importance: 3
+ - enterprise: 
+ - purpose: Data/import,export
+ - description: General data parser
  - url: 
 SandstoneDb
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: Persistance
- - attributes: 
+ - purpose: Data/Persistance
+ - description: 
  - url: 
 Fuel
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: Persistance
- - attributes: Fast serialization
+ - purpose: Data/Persistance
+ - description: Fast binary serialization
  - url: 
 Mapless
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: Persistance
- - attributes: MongoDB connector
+ - description: MongoDB connector
  - url: 
 Magma
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: Persistance/Object Database
- - attributes: 
+ - description: 
  - url: 
 Moose
- - position: outside image
+ - type: edition of Pharo
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Data/Analyze
+ - description: General platform for analyze data
  - url: 
 Roassal
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Data/Visualization
+ - description: Interactive and visual representation of data
+ - url: 
+ Mondorian
+ - type: project outside of Pharo image
+ - importance: 3
+ - enterprise: 
+ - purpose: Data/Visualization
+ - description: Domain specifi language to script visualization - build on top of Roassal
  - url: 
 Teapot
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: 
- - attributes: 
+ - description: 
  - url: 
-Voyager
- - position: outside image
+Voyage
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Data/Persistance/Object-document mapper
+ - description: Layer between objects and persistency mechanism - supports in-memory and MongoDB backend
  - url: 
 Mustache
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Templating
+ - description: Versatile logic-free templating framework with simple syntax
  - url: 
 RenoirST
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Data/Generator/CSS
+ - description: Programmatic generator of CSS (Cascading Style Sheet)
  - url: 
 Margritte
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
  - purpose: 
- - attributes: 
+ - description: 
  - url: 
 Pillar
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Data/Generator
+ - description: Syntax and tools for generationg documentation and books - export to HTML, LaTeX, Markdown, Pillar
+ - url: 
+Artefact
+ - type: project outside of Pharo image
+ - importance: 3
+ - enterprise: 
+ - purpose: Data/Generator/PDF
+ - description: Framework for generating PDF (Portable Document Format)
  - url: 
 Phrach
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Learning/Visual programming
+ - description: visual programming language based on a jigsaw puzzle
  - url: 
 Glamour
- - position: outside image
+ - type: project outside of Pharo image
  - importance: 3
  - enterprise: 
- - purpose: 
- - attributes: 
+ - purpose: Data/Browsing
+ - description: General data browser with descriptive navigation flow
  - url: 
