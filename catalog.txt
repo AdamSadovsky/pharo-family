@@ -3,7 +3,7 @@ SUnit
  - importance: 5
  - enterprise: 5
  - purpose: Testing
- - description:
+ - description: Unit testing framework
  - url: 
 Morphic
  - type: project inside of Pharo image
